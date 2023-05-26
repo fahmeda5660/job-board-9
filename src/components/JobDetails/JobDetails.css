@@ -1,0 +1,28 @@
+.title-style{
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 44px;
+    color: #1A1919;
+}
+.title-style-1{
+    font-weight: 800;
+    font-size: 20px;
+    color: #1A1919;
+}
+.job-details-right{
+    background: linear-gradient(90deg, rgba(126, 144, 254, 0.1) 0%, rgba(152, 115, 255, 0.1) 100%);
+border-radius: 8px;
+padding: 30px;
+}
+.btn-apply-now{
+    width: 100%;
+    background: linear-gradient(90deg, #7E90FE 0%, #9873FF 100%);
+    text-transform: capitalize;
+    font-weight: 800;
+    color: #FFFFFF;
+    padding: 10px 20px;
+    border-radius: 10px;
+  }
+  .btn-apply-now:hover{
+    background: #081b94;
+  }

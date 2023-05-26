@@ -1,0 +1,38 @@
+.card-style{
+    background: linear-gradient(90deg, rgba(126, 144, 254, 0.05) 0%, rgba(152, 115, 255, 0.05) 100%);
+    border-radius: 8px;
+    padding: 40px;
+}
+.img-style{
+    background: linear-gradient(90deg, rgba(126, 144, 254, 0.1) 0%, rgba(152, 115, 255, 0.1) 100%);
+border-radius: 8px;
+padding: 15px;
+}
+.category-title{
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 66px;
+    color: #1A1919;
+}
+.category-description{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #757575;
+    margin-top: 16px;
+}
+.type-style{
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 27px;
+    color: #474747;
+    margin-top: 32px;
+}
+.avaiable-job-style{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    color: #A3A3A3;
+    margin-top: 8px;
+    }

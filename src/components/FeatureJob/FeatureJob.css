@@ -1,0 +1,35 @@
+.feature-card-style{
+    background: linear-gradient(90deg, rgba(126, 144, 254, 0.05) 0%, rgba(152, 115, 255, 0.05) 100%);
+    border-radius: 8px;
+    border: 2px solid #D1D1D1;
+    padding: 20px;
+}
+.btn-viewDetails{
+    background: linear-gradient(90deg, #7E90FE 0%, #9873FF 100%);
+    text-transform: capitalize;
+    font-weight: 800;
+    color: #FFFFFF;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.btn-viewDetails:hover{
+    background: #081b94;
+}
+.job-title{
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 33px;
+    color: #474747;
+}
+.company-name{
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 27px;
+    color: #757575;
+}
+.location-style{
+font-weight: 600;
+font-size: 15px;
+line-height: 27px;
+color: #757575;
+}

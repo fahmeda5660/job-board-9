@@ -1,0 +1,24 @@
+{
+    "categories":[
+        {
+            "icon": "/accounts 1.png",
+            "type":"Account & Finance",
+            "avaiable_job": 345
+        },
+        {
+            "icon": "/business 1.png",
+            "type":"Creative Design",
+            "avaiable_job": 256
+        },
+        {
+            "icon": "/social-media 1.png",
+            "type":"Marketing & Sales",
+            "avaiable_job": 200
+        },
+        {
+            "icon": "/chip 1.png",
+            "type":"Engineering Job",
+            "avaiable_job": "122+"
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "jobs": [
+        {
+            "id": 1,
+            "company_logo": "/google-1-1 1.png",
+            "job_title": "Software Engineer",
+            "company_name": "ABC Inc.",
+            "location": "Anytown, USA",
+            "salary_range": "$80,000 - $100,000",
+            "remote_onsite": "Remote",
+            "fulltime_parttime": "Part-Time",
+            "job_description": "We are looking for a software engineer to join our team...",
+            "job_responsibilities": "Software Engineers document this process through the use of diagrams and flowcharts, developing computer instructions through the use of algorithms. Given the breadth of the role, a Software Engineer must have a thorough understanding of computer systems, in order to recognise any hardware limitations that could impact software design. Develop and implement marketing strategies and campaigns. Monitor and analyze market trends and adjust strategies accordingly. Collaborate with cross-functional teams to execute campaigns and initiatives.",
+            "educational_requirement": "Bachelor's degree in Computer Science or related field",
+            "experiences": "3+ years of experience in software development...",
+            "contact_information": {
+                "phone": "(123) 456-7890",
+                "email": "info@abcinc.com",
+                "address": "123 Main St, Anytown, USA"
+            }
+        },
+        {
+            "id": 2,
+            "company_logo": "/CareerHub.png",
+            "job_title": "Marketing Manager",
+            "company_name": "XYZ Corp.",
+            "location": "Anycity, USA",
+            "salary_range": "$70,000 - $90,000",
+            "remote_onsite": "Remote",
+            "fulltime_parttime": "Full-Time",
+            "job_description": "We are seeking a highly motivated Marketing Manager...",
+            "job_responsibilities": "We are seeking an innovative marketing manager to promote our company's brand and services. In this role, you will be optimizing our marketing strategies, managing the marketing department's budget and staff, as well as preparing forecasts. Design and develop new software applications. Debug and troubleshoot code issues. Collaborate with other developers to complete project milestones.",
+            "educational_requirement": "Bachelor's degree in Marketing or related field",
+            "experiences": "5+ years of experience in marketing...",
+            "contact_information": {
+                "phone": "(555) 555-5555",
+                "email": "hr@xyzcorp.com",
+                "address": "456 Elm St, Anycity, USA"
+            }
+        },
+        {
+            "id": 3,
+            "company_logo": "/Group 10021.png",
+            "job_title": "Graphic Designer",
+            "company_name": "Design Co.",
+            "location": "Anytown, USA",
+            "salary_range": "$50,000 - $70,000",
+            "remote_onsite": "Onsite",
+            "fulltime_parttime": "Part-Time",
+            "job_description": "We are seeking a talented Graphic Designer to join our team...",
+            "job_responsibilities": "A Graphic Designer communicates ideas and information through visuals concepts. Primarily using design software, they create compelling visuals that inspire and captivate audiences. Graphic Designers strategically combine design elements to develop aesthetically appealing layouts, advertisements, reports, logos, packaging, and more. Manage and maintain company's financial records. Prepare financial reports and budgets. Ensure compliance with accounting standards and regulations.",
+            "educational_requirement": "Bachelor's degree in Graphic Design or related field",
+            "experiences": "2+ years of experience in graphic design...",
+            "contact_information": {
+                "phone": "(123) 456-7890",
+                "email": "jobs@designco.com",
+                "address": "789 Oak St, Anytown, USA"
+            }
+        },
+        {
+            "id": 4,
+            "company_logo": "/netflix-4 1.png",
+            "job_title": "Accountant",
+            "company_name": "Techno Services Inc.",
+            "location": "Anycity, India",
+            "salary_range": "$40,000 - $50,000",
+            "remote_onsite": "Onsite",
+            "fulltime_parttime": "Part-Time",
+            "job_description": "Prepare balance sheets, profit, and loss statements, and other financial reports. Accountant duties and responsibilities also include analyzing trends, costs, revenues, financial commitments, and obligations incurred to predict future revenues and expenses. We are looking for an experienced Accountant to join our team...",
+            "job_responsibilities": "Provide technical support to customers. Troubleshoot and resolve hardware and software issues. Document and communicate issue resolution steps.",
+            "educational_requirement": "Bachelor's degree in Graphic Design or related field",
+            "experiences": "2+ years of experience in graphic design...",
+            "contact_information": {
+                "phone": "(123) 456-7890",
+                "email": "jobs@designco.com",
+                "address": "789 Oak St, Anytown, USA"
+            }
+        },
+        {
+            "id": 5,
+            "company_logo": "/tesla-9 1.png",
+            "job_title": "Product Manager",
+            "company_name": "Financial Services Inc.",
+            "location": "Anycity, Canada",
+            "salary_range": "$60,000 - $80,000",
+            "remote_onsite": "Remote",
+            "fulltime_parttime": "Part-Time",
+            "job_description": "We are looking for an experienced Product Manager to join our team...",
+            "job_responsibilities": "A Product Manager is in charge of a product throughout its product lifecycle. That includes working out what customers want, helping the business to build the right product, and then supporting the business to sell it. They also provide the product vision and leadership for the many other roles involved in developing, supporting, marketing, and selling the product. That includes ensuring the product supports the company’s strategy and goals.",
+            "educational_requirement": "Bachelor's degree in Graphic Design or related field",
+            "experiences": "2+ years of experience in graphic design...",
+            "contact_information": {
+                "phone": "(123) 456-7890",
+                "email": "dobs@designco.com",
+                "address": "789 Tok St, Anytown, USA"
+            }
+        },
+        {
+            "id": 6,
+            "company_logo": "/google-1-1 1.png",
+            "job_title": "Finance Manager",
+            "company_name": "Financial Services Inc.",
+            "location": "Anycity, USA",
+            "salary_range": "$60,000 - $80,000",
+            "remote_onsite": "Onsite",
+            "fulltime_parttime": "Part-Time",
+            "job_description": "We are looking for an experienced Accountant to join our team...",
+            "job_responsibilities": "We are looking to hire a finance manager with excellent organizational and analytical skills. Finance managers are expected to be detail-oriented, knowledgeable on statistics, have strong problem-solving skills, and an investigative nature. To ensure success, finance managers should have a deep commercial awareness, strong numeracy skills, and a keen interest in the growth, efficiency, and profitability of an organization.",
+            "educational_requirement": "Bachelor's degree in Graphic Design or related field",
+            "experiences": "2+ years of experience in graphic design...",
+            "contact_information": {
+                "phone": "(123) 456-7890",
+                "email": "nobs@designco.com",
+                "address": "789 Niak St, Anytown, India"
+            }
+        }
+    ]
+}

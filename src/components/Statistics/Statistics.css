@@ -1,0 +1,14 @@
+/* <nav className='header padding-container'>
+<div>
+    <h2 className='font-extrabold text-[32px] leading-[44px] text-[#1A1919]'>Job Board</h2>
+</div>
+<div className='font-bold text-[16px] leading-[22px] text-[#757575]'>
+    <Link to="/home">Home</Link>
+    <Link className='ml-7' to="/statistics">Statistics</Link>
+    <Link to="/jobs">Applied Jobs</Link>
+    <Link to="/blog">Blog</Link>
+</div>
+<div>
+    <button className='btn-start'>Start Applying</button>
+</div>
+</nav> */

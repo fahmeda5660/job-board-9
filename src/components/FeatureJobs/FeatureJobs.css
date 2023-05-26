@@ -1,0 +1,7 @@
+.btn-seeAll{
+    width: 190px;
+    background: linear-gradient(90deg, #7E90FE 0%, #9873FF 100%);
+    font-weight: 800;
+    border-color: #7E90FE;
+    text-transform: capitalize;
+}
